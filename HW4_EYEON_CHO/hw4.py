@@ -45,7 +45,7 @@ while True:
         f = open('./favicon.ico', 'rb')
         mimeType = 'image/x-icon'
         c.send(msg1.encode())
-        h_msg = msg2 + mimeType + msg3
+        msg = msg2 + mimeType + msg3
         c.send(msg.encode())
         c.send(msg3.encode())
         data = f.read()
