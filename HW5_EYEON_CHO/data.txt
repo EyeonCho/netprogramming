@@ -1,0 +1,2 @@
+Mon Apr 04 01:20:58 2022: Device1: Temp=30, Humid=50, Iilum=106
+Mon Apr 04 01:20:58 2022: Device1: Heartbeat=140, Steps=4274, Cal=1532
